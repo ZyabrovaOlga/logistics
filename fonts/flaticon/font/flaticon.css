@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 06/05/2019 12:06
+  	Creation date: 10/02/2019 11:17
   	*/
 
 @font-face {
@@ -25,7 +25,8 @@
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
-        font-weight: normal;
+        font-style: normal;
+  font-weight: normal;
   font-variant: normal;
   text-transform: none;
   line-height: 1;
@@ -35,9 +36,13 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-airplane:before { content: "\f100"; }
-.flaticon-add:before { content: "\f101"; }
-.flaticon-ferry:before { content: "\f102"; }
-.flaticon-box:before { content: "\f103"; }
-.flaticon-lorry:before { content: "\f104"; }
-.flaticon-warehouse:before { content: "\f105"; }
+.flaticon-plane:before { content: "\f100"; }
+.flaticon-container:before { content: "\f101"; }
+.flaticon-truck:before { content: "\f102"; }
+.flaticon-warehouse:before { content: "\f103"; }
+.flaticon-boat-ship:before { content: "\f104"; }
+.flaticon-hand-box:before { content: "\f105"; }
+.flaticon-wooden:before { content: "\f106"; }
+.flaticon-worldwide:before { content: "\f107"; }
+.flaticon-map:before { content: "\f108"; }
+.flaticon-computer:before { content: "\f109"; }
