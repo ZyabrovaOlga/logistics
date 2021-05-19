@@ -39,7 +39,7 @@
 					color: $primary;
 				}
 			}
-			// single page
+	
 			a {
 				&.active {
 					color: $primary;
@@ -206,7 +206,7 @@
 			transition: .3s all ease-out;
 		}
 		&.sleep {
-			transition: .3s all ease-out;	
+			transition: .3s all ease-out;
 		}
 		
 		.site-menu-toggle {
